@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sören Reinecke alias Valor Naram",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "config": "^3.3.8",
     "deepmerge": "^4.2.2",
