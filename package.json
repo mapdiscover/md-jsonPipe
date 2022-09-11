@@ -1,0 +1,16 @@
+{
+  "name": "md-gentagschema",
+  "version": "1.0.0",
+  "description": "Generates a OSM tag edit schema out of data gathered from various resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sören Reinecke alias Valor Naram",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.8",
+    "deepmerge": "^4.2.2",
+    "express": "^4.18.1"
+  }
+}
